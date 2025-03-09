@@ -32,4 +32,18 @@ Due to overlap in the mid-range of screen size and battery life, the logistic re
 
   ![{0C220410-0C08-4D14-8F7A-C15629C5AD21}](https://github.com/user-attachments/assets/19dfb242-3b83-4408-889e-228845612f5d)
 
+  Dataset story
+
+  Imagine a bustling tech hub called TechTown, known for its innovative smartphone manufacturing. Two leading brands dominate the market: Brand A (represented by blue dots) and Brand B (represented by red dots). Engineers in TechTown are analyzing smartphone data to optimize production and assist retailers in stocking the right models.
+
+The scatter plot from their analysis plots screen_size (in inches, scaled on the x-axis) against battery_life (in hours, scaled on the y-axis). Lower screen_size values indicate smaller screens, while higher values indicate larger screens. Lower battery_life values signify shorter battery durations, and higher values indicate longer battery life.
+
+The engineers collected data on hundreds of smartphone models, labeling each as either Brand A (target 0, blue) or Brand B (target 1, red). Their goal was to predict the brand using only screen size and battery life, helping retailers predict demand.
+
+However, the plot reveals a varied distribution. Brand A models tend to have smaller screens and shorter battery life (more blue dots on the left and lower parts), while Brand B models feature larger screens and longer battery life (more red dots on the right and upper parts). Yet, there’s noticeable overlap in the middle, where mid-sized screens and average battery life could belong to either brand, complicating predictions.
+
+This overlap suggests that screen size and battery life alone may not fully distinguish the brands. Factors like price, camera quality, or processor speed might also influence classification. The engineers may need more data or a more sophisticated model to enhance accuracy.
+
+For TechTown retailers, this means they can’t rely solely on rules like “larger screens mean Brand B.” Collaboration with engineers is key to refining prediction models or adjusting inventory strategies. For now, this scatter plot illustrates the diverse nature of smartphone design, where two key metrics reveal a complex market landscape.
+
 Under the guidance of [ Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
