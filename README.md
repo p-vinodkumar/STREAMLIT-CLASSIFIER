@@ -23,3 +23,12 @@ Due to overlap in the mid-range of screen size and battery life, the logistic re
 ## Prerequisites
 - Python 3.7 or higher
 - Git (for version control)
+
+![{D09ECF06-A899-4B4A-B11F-86E6E8FB52E3}](https://github.com/user-attachments/assets/f4570011-8906-4d26-89fe-d710d99e32f9)
+
+
+  ![{39137E8F-C47C-4D3D-8D09-22E2F63F0B07}](https://github.com/user-attachments/assets/871900f7-4277-4b2b-8c17-9dddcea822c0)
+
+
+  ![{0C220410-0C08-4D14-8F7A-C15629C5AD21}](https://github.com/user-attachments/assets/19dfb242-3b83-4408-889e-228845612f5d)
+
