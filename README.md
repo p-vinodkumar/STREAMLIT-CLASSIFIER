@@ -32,3 +32,4 @@ Due to overlap in the mid-range of screen size and battery life, the logistic re
 
   ![{0C220410-0C08-4D14-8F7A-C15629C5AD21}](https://github.com/user-attachments/assets/19dfb242-3b83-4408-889e-228845612f5d)
 
+Under the guidance of [ Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
